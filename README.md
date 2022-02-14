@@ -15,7 +15,13 @@
 - [Print Single Child Nodes]
 - [Remove Leaves]
 - [Diameter1]
-
+- [Diameter2]
+- [Diameter3]
+- [Tilt]
+- [BST Pair]
+- [isBst]
+- [Balanced Pair]
+- [Largest BST]
 
 
 ### 2. [Graphs](https://github.com/manosriram/Data-Structures/blob/master/Graphs)
