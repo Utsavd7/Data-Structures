@@ -39,7 +39,7 @@
 - [Nodes in Given Range]
 - [Target Sum Pair]
 
-### 3. [Binary Tree](https://github.com/Utsavd7/Data-Structures/blob/main/Generic%20Tree/GenericTree.java)
+### 3. [Generic Tree](https://github.com/Utsavd7/Data-Structures/blob/main/Generic%20Tree/GenericTree.java)
 
 - [Display]
 - [Size]
